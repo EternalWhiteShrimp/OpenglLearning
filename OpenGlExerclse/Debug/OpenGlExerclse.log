@@ -1,0 +1,14 @@
+﻿  main.cpp
+F:\OpenGlProcedure\OpenGlExerclse\OpenGlExerclse\Shader.h(71,10): warning C4101:  “vertexId”: 未引用的局部变量
+F:\OpenGlProcedure\OpenGlExerclse\OpenGlExerclse\Shader.h(71,20): warning C4101:  “fragmentId”: 未引用的局部变量
+F:\OpenGlProcedure\OpenGlExerclse\OpenGlExerclse\Shader.h(68,8): warning C4101:  “infoLog”: 未引用的局部变量
+F:\OpenGlProcedure\OpenGlExerclse\OpenGlExerclse\Shader.h(67,7): warning C4101:  “success”: 未引用的局部变量
+F:\OpenGlProcedure\OpenGlExerclse\OpenGlExerclse\main.cpp(92,22): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGlProcedure\OpenGlExerclse\OpenGlExerclse\main.cpp(182,17): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGlProcedure\OpenGlExerclse\OpenGlExerclse\main.cpp(183,17): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGlProcedure\OpenGlExerclse\OpenGlExerclse\main.cpp(184,11): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGlProcedure\OpenGlExerclse\OpenGlExerclse\main.cpp(185,11): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGlProcedure\OpenGlExerclse\OpenGlExerclse\main.cpp(189,10): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGlProcedure\OpenGlExerclse\OpenGlExerclse\main.cpp(190,10): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGlProcedure\OpenGlExerclse\OpenGlExerclse\main.cpp(198,28): warning C4244:  “参数”: 从“double”转换到“float”，可能丢失数据
+  OpenGlExerclse.vcxproj -> F:\OpenGlProcedure\OpenGlExerclse\Debug\OpenGlExerclse.exe
